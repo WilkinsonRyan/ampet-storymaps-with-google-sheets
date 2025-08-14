@@ -7,7 +7,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 </p>
 
 ## Live links (replace with your own)
-- Leaflet Map https://wilkinsonryan.github.io/ampet-storymaps-with-google-sheets
+- Leaflet Map https://wilkinsonryan.github.io/ampet-storymaps-with-google-sheets#1
 - Google Sheets template https://docs.google.com/spreadsheets/d/1pqTY23hyttoZuZj1w8bMLIZPwlswCUycGtT_GZ0EtEE/edit?gid=0#gid=0
 
 ## Create Your Own
